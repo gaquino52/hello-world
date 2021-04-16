@@ -1,2 +1,5 @@
 # hello-world
-Just another Repository
+
+Hi Humans!
+This is Hello world walkthrough for a Data Science course!
+
